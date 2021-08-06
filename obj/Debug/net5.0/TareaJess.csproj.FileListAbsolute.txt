@@ -1,0 +1,16 @@
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\TareaJess.exe
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\TareaJess.deps.json
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\TareaJess.runtimeconfig.json
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\TareaJess.runtimeconfig.dev.json
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\TareaJess.dll
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\ref\TareaJess.dll
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\bin\Debug\net5.0\TareaJess.pdb
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.csproj.AssemblyReference.cache
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.AssemblyInfoInputs.cache
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.AssemblyInfo.cs
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.csproj.CoreCompileInputs.cache
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.dll
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\ref\TareaJess.dll
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.pdb
+C:\Users\d_dia\source\repos\tareaJess\TareaJess\obj\Debug\net5.0\TareaJess.genruntimeconfig.cache
